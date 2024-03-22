@@ -54,9 +54,9 @@ This project implements a simple customer support bot web application using HTML
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot01.png)
 ![Screenshot 1](screenshots/screenshot02.png)
-![Screenshot 1](screenshots/screenshot03.png)
+![Screenshot 1](screenshots/screenshot01.png)
+![Screenshot 1](screenshots/screenshot04.png)
 
 
 ## Usage

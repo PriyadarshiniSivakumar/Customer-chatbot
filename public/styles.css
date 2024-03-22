@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8a9ec3;
+}
+
+.chat-container {
+    max-width: 900px;
+    margin: 20px auto;
+    border: 1px solid #c9b6c0;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #f5f8f8;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.chat-header h1 {
+    margin: 0;
+}
+
+.chat-box {
+    height: 300px;
+    padding: 10px;
+    overflow-y: scroll;
+}
+
+input[type="text"] {
+    width: calc(100% - 70px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.input-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}
+
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid rgb(29, 31, 84);
+    color: black;
+   
+    border-radius: 5px;
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(33, 24, 105);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:active {
+    background-color: #0056b3;
+}
+
+.chat-container header{
+    background: rgb(30, 18, 80);
+    padding: 16px 0;
+    text-align: center;
+}
+
+.chat-container header h1{
+    color: #fff;
+    font-size: 1.8rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.galada-regular {
+    font-family: "Galada", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .botMessage {
+    background-color: #306aa7;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;text-align: left;
+}
+
+.bot{
+    
+        background-color: #253c53;
+        color: #fff;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    
+}
+
+.user{
+    
+        background-color: #d1ecf1;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        text-align: right;
+   
+}

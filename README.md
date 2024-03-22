@@ -2,7 +2,6 @@
 
 This project implements a simple customer support bot web application using HTML, CSS, JavaScript, and Node.js with Express. Users can interact with the bot by typing queries in the input box and receiving responses from the bot.
 
-![Customer Support Bot Screenshot](/path/to/screenshot.png)
 
 ## Features
 
@@ -51,6 +50,14 @@ This project implements a simple customer support bot web application using HTML
     ```
 
 5. **Open your web browser and visit [http://localhost:4000](http://localhost:4000) to access the chat interface.**
+
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot01.png)
+![Screenshot 1](screenshots/screenshot02.png)
+![Screenshot 1](screenshots/screenshot03.png)
+
 
 ## Usage
 

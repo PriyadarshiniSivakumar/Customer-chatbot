@@ -15,8 +15,8 @@ app.get('/',(req,res)=>{
 
 const OpenAI = require('openai');
 const openai = new OpenAI({
-    apiKey: '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',
-    //apiKey: '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'
+    apiKey: 'ENTER THE API KEY HERE',
+    
     
 });
 
